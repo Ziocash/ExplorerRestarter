@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+[![Downloads](https://img.shields.io/github/downloads/Ziocash/ExplorerRestarter/total?color=green)](https://github.com/Ziocash/ExplorerRestarter/releases/)
+## ExplorerRestarter
 
-You can use the [editor on GitHub](https://github.com/Ziocash/ExplorerRestarter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the ExplorerRestarter to restart manually explorer.exe without search it and kill it manually in TaskManager.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## License
+[GNU GPL 3.0](https://github.com/Ziocash/LxssManager_Restarter/blob/master/LICENSE)
 
-### Markdown
+## Issues?
+Use the [issues page](https://github.com/Ziocash/ExplorerRestarter/issues/new/choose) and report any issue has occurred in your execution.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ziocash/ExplorerRestarter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Communities
+[![Discord server](https://img.shields.io/discord/294854844034842634?color=2352ff&label=Discord&style=plastic&logo=discord)](https://discord.gg/sMtFdGF)
+[![Testing Discord server](https://img.shields.io/discord/621724218345783297?color=2352ff&label=Testers%27%20Discord&style=plastic&logo=discord)](https://discord.gg/aaXSNs8)
